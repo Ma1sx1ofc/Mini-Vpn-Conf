@@ -19,3 +19,7 @@ vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp
 vless://c631d469-de07-44ea-afcf-1033616e06f4@ee1.mehab.me:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ee1.mehab.me&fp=firefox&alpn=http/1.1&flow=xtls-rprx-vision#🇪🇪 Эстония
 
 vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@kz.keepsecurevpn.com:443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=kz.keepsecurevpn.com&alpn=http/1.1%2Ch2#🇰🇿 Казахстан
+
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30086?encryption=none&security=none&serviceName=gprc&type=grpc#🇵🇱 Польша 
+
+vless://a5554072-0d6d-4b9a-93b1-9c8726fc2c0b@45.138.16.62:30047?type=ws&headerType=none&security=none&encryption=none&path=%2F#🇵🇱 Польша #2

@@ -38,6 +38,8 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.74.253:8880?encryption=none&
 
 vless://507b9117-124a-4769-a62b-2087c193e15c@in-blr-2.blook.network:443?type=tcp&headerType=none&security=reality&encryption=none&sni=in-blr-2.blook.network&fp=chrome&pbk=4hgbGo2EFMD_G-67IL4UrPtBri0Dh-l_SFafynnVHm8&sid=dd0d7f6b&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды (Медленно)
 
+vless://f90cc83a-97ce-446d-8f80-30d3eef3351c@144.31.30.69:2443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=google.com#🇳🇱 Нидерланды №2 (Не Тестил)
+
 vless://af2e1391-e1df-4939-906f-93ee993c940e@archive.westondigita.cloud:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&sni=aliusfilms.ru#🇨🇳 Китай (Неизвестно, у них свой интернет)
 
 vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@107.181.134.52:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=d82fb387&sni=chat.deepseek.com&type=tcp#🇬🇧 Великобритания (Хорошо)

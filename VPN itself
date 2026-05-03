@@ -45,3 +45,5 @@ vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ind8.keepsecured.net:8443?type=grpc
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@20.217.80.211:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#🇮🇱 Израиль (Сдохло 100%)
 
 vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@lol-are-0001.api.neuralrelay.stream:443?security=reality&encryption=none&pbk=9WnuH4KUb9-cCqbApq4bVLDhrqhPbpnd5eTn14bGciA&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=1dc69d21a7077443#🇦🇪 Арабские Эмираты
+
+vless://26524cce-d514-4014-a426-365fb266a14d@69.63.214.151:60030?security=tls&type=ws&path=%2Fdanfeng&host=xfxl35a.node-edge.gfw.hidns.co&packetEncoding=none&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#🇺🇸 Соединённые Штаты

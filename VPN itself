@@ -31,3 +31,5 @@ vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@fr.appav.net:2083?encryption=none&f
 vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@fr2.appav.net:2083?encryption=none&flow=&fp=qq&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=barclays.co.uk&type=grpc#🇫🇷 Франция #3 (Сдохло)
 
 vless://427589c7-f170-4cf3-90d6-8a5864107ddc@fl-2-direct.djarbnet.ru:443?type=ws&headerType=none&security=tls&encryption=none&alpn=http%2F1.1&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&insecure=0#🇫🇮 Финляндия
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.74.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇰🇭 Камбоджа

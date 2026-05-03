@@ -49,3 +49,5 @@ vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@lol-are-0001.api.neuralrelay.stream
 vless://26524cce-d514-4014-a426-365fb266a14d@69.63.214.151:60030?security=tls&type=ws&path=%2Fdanfeng&host=xfxl35a.node-edge.gfw.hidns.co&packetEncoding=none&sni=xfxl35a.node-edge.gfw.hidns.co&fp=chrome#🇺🇸 Соединённые Штаты (Нормально)
 
 vless://5fd3fefa-f121-4f68-9592-e0964207fc29@188.92.78.183:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sid=&sni=www.microsoft.com&type=tcp#🇱🇻 Литва
+
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@rhciuib.synccut.de:443?security=tls&type=ws&path=%2Fdialect&host=rhciuib.synccut.de&packetEncoding=none&allowInsecure=1&sni=rhciuib.synccut.de&fp=edge#🇭🇰 ГонкКонг

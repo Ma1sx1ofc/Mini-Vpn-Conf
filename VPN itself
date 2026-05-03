@@ -52,6 +52,8 @@ vless://26524cce-d514-4014-a426-365fb266a14d@69.63.214.151:60030?security=tls&ty
 
 vless://5fd3fefa-f121-4f68-9592-e0964207fc29@188.92.78.183:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sid=&sni=www.microsoft.com&type=tcp#🇱🇻 Литва (Неизвестно)
 
-vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@rhciuib.synccut.de:443?security=tls&type=ws&path=%2Fdialect&host=rhciuib.synccut.de&packetEncoding=none&allowInsecure=1&sni=rhciuib.synccut.de&fp=edge#🇰🇷 Южная Корея (Хорошо)
+vless://cf5a8e10-758c-4564-87a4-a2eeecbd5ed4@rhciuib.synccut.de:443?security=tls&type=ws&path=%2Fdialect&host=rhciuib.synccut.de&packetEncoding=none&allowInsecure=1&sni=rhciuib.synccut.de&fp=edge#🇰🇷 Южная Корея, Сеул (Хорошо)
 
 vless://99171218-d7e5-4b1c-a885-fef37a9f41e5@hu.locklance.lol:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hu.locklance.lol&fp=chrome&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&sid=f61e8d75fae58084&flow=xtls-rprx-vision#🇭🇺 Венгрия (Неизвестно)
+
+vless://340ce710-8daf-4204-8d0d-74f2edc46386@pwctqbvswnne.ap-northeast-1.clawcloudrun.com:443?type=ws&headerType=none&security=tls&encryption=none&sni=pwctqbvswnne.ap-northeast-1.clawcloudrun.com&path=%2F&host=pwctqbvswnne.ap-northeast-1.clawcloudrun.com&insecure=1#🇯🇵 Япония (Не тестил)

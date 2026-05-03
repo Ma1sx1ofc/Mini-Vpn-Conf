@@ -33,3 +33,5 @@ vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@fr2.appav.net:2083?encryption=none&
 vless://427589c7-f170-4cf3-90d6-8a5864107ddc@fl-2-direct.djarbnet.ru:443?type=ws&headerType=none&security=tls&encryption=none&alpn=http%2F1.1&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&insecure=0#🇫🇮 Финляндия (Медленно 70МБ/С)
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.243.74.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🇰🇭 Камбоджа (Сдохло)
+
+vless://507b9117-124a-4769-a62b-2087c193e15c@in-blr-2.blook.network:443?type=tcp&headerType=none&security=reality&encryption=none&sni=in-blr-2.blook.network&fp=chrome&pbk=4hgbGo2EFMD_G-67IL4UrPtBri0Dh-l_SFafynnVHm8&sid=dd0d7f6b&spx=%2F&flow=xtls-rprx-vision#🇳🇱 Нидерланды (Медленно)

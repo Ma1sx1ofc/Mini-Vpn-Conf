@@ -29,3 +29,5 @@ vless://b375b840-8ac0-4d37-98c0-44ab85fd7127@45.92.218.65:7443?encryption=none&f
 vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@fr.appav.net:2083?encryption=none&flow=&fp=qq&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=apple.com&type=grpc#🇫🇷 Франция #2 (Сдохло)
 
 vless://2068a81d-4ece-41ee-b9fc-b550fe6d8eac@fr2.appav.net:2083?encryption=none&flow=&fp=qq&packetEncoding=xudp&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&security=reality&serviceName=UpdateService&sid=6da16b1335651b38&sni=barclays.co.uk&type=grpc#🇫🇷 Франция #3 (Сдохло)
+
+vless://427589c7-f170-4cf3-90d6-8a5864107ddc@fl-2-direct.djarbnet.ru:443?type=ws&headerType=none&security=tls&encryption=none&alpn=http%2F1.1&path=%2Fgetupdates&host=fl-2-direct.djarbnet.ru&insecure=0#🇫🇮 Финляндия

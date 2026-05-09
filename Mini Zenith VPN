@@ -46,7 +46,7 @@ vless://09713ae5-fed1-4002-84c0-e98a2f8b5e2b@185.248.144.97:443/?type=tcp&encryp
 
 vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?path=%2Fa12b0d31&type=ws#🇯🇵 Япония (1126)
 
-vless://36d85d65-1b57-4cba-a2a6-f61131b08593@srv31.towersflowerss.com:443?type=ws&sni=srv31.towersflowerss.com#🇰🇿 Казахстан (865)
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🇰🇿 Казахстан (2137)
 
 vless://66d5302c-17f1-4c36-8e27-fa157d815293@169.40.2.37:11111?type=xhttp&security=none&encryption=none&path=/new-weels&mode=packet-up&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#🇱🇻 Латвия (808)
 

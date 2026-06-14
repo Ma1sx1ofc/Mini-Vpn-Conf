@@ -38,5 +38,4 @@ vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=
 
 vless://286df6ea-6abf-4fda-bd8d-7761ea83a410@nl1re.gamestreamcloud.org:8443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=libreview.ru&fp=firefox&pbk=3CJjYPoZD_TN1EdJXwdu49ZK6-iIBRemJeXX_B2y6SA&sid=741c410b9d7db070#🇷🇺 Запасной (Обход) | 🛡 Защита
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❓ | Понравился наш VPN?
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#❗ | Поделись нашим VPN с друзьями!
+vless://afc65ed6-5905-4b30-8d7f-f6bcc864cb35@bridge3.vpn-port.com:443?encryption=none&security=reality&sni=dnl-01.geo.kaspersky.com&pbk=WMq1lnv1sx63GAFKRDKU_Rf6COEXLK8McJvMj7AJ3hw&sid=67&serviceName=telemetry&type=grpc#🇷🇺 Запасной (Обход БС, ПЕРЕГРУЗ)

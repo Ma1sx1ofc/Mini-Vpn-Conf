@@ -1,6 +1,6 @@
 #profile-title: ZENIT VPN
 #profile-update-interval: 12
-#subscription-userinfo: total=0; used=0
+#subscription-userinfo: upload=5368709120; download=21474836480; total=107374182400
 #profile-web-page-url: https://discord.gg/7ne63z8uBW
 #announce: ВПН для тех кто в первую очередь ценит себя
 
@@ -15,7 +15,7 @@ vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@153.80.249.192:443?encryption=none&
 vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@195.2.81.39:443?encryption=none&security=reality&sni=ru-agent-06.rita-cloud.com&fp=firefox&pbk=0azLTkBAL9jSMaDio8wlyeDW9rglwOgvZRv_pwaQMC0&sid=55ca6ae3cc8075da&type=tcp&flow=xtls-rprx-vision#🇷🇺 Сарма - Россия 
 vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@31.76.31.68:443?encryption=none&security=reality&sni=iris-08.rita-cloud.com&fp=firefox&pbk=dYj8Vnll5sRJtiYUNt-dgnaGIqIFTWyBmlrww5ylxi4&sid=8bd343f20c2a4d89&type=tcp&flow=xtls-rprx-vision#🇫🇮 Этезий - Финляндия 
 vless://f119bbaf-68ec-4d88-870c-e4d4cb92868b@5.231.223.95:443?encryption=none&security=reality&sni=iris-06.rita-cloud.com&fp=firefox&pbk=i73ZFO8gi69rbVO2Tqxs4Hc5X53XqLakhEb-1MIM3js&sid=6a6e9633fef62811&type=tcp&flow=xtls-rprx-vision#🇩🇪 Памперо - Германия 
-#
+
 
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@vpn.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇩🇪 Германия
 vless://9cc56b5d-2a44-4fd1-91e3-659b06255c11@swed.oplatasite.ru:8443?security=tls&type=tcp&headerType=none&path=&host=&sni=vpn.oplatasite.ru&fp=edge#🇸🇪 Швеция

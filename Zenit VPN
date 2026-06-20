@@ -7,13 +7,11 @@
 base64:4oCTINC00L7QsdCw0LLQuNC70Lgg0L7QsdGF0L7QtCDQsdC10LvRi9GFINGB0L/QuNGB0LrQvtCyICjQsdGBKQrwn5SR0KMg0LLQsNGBINCw0LrRgtC40LLQuNGA0L7QstCw0L0g0LvQuNGG0LXQvdC30LjQvtC90L3Ri9C5ICDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsPCflJE=
 
 
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@217.179.221.82:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ve.cishosts.org&pbk=W7zjZJiEbAN6b-KkXWtk5dJ513BFDeKMSxgdiCUOWBo&sid=a1ab5a56bcca&fp=chrome#🇬🇧 Великобритания
-trojan://a7J9BMDPu1wuDTJ-cZoKBqvoPT9Uc7fL@fr.cishosts.org:443?security=tls&sni=fr.cishosts.org#🇫🇷 Франция
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@ger.cishosts.org:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇩🇪 Германия
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@94.183.254.246:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇳🇱 Нидерланды
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@2.27.23.155:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇸🇪 Швеция
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@2.27.12.173:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇱🇻 Латвия
-vless://85d509cd-e641-443a-b227-ddc765adeb2d@178.17.62.76:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cdn.kwork.com&pbk=vZ5gqplZQE1wX0ESiOxgvaWJebXHqVLR48CoIHnGW1Q&sid=a1ab5a56bc42a1&fp=qq#🇨🇭 Швейцария
+vless://e570100b-9524-48bf-8868-5a812290f852@31.76.87.210:8443?encryption=none&security=tls&alpn=h2&sni=pl1.gobalance.live&fp=firefox&type=xhttp&host=pl1.gobalance.live&path=%2Fapi%2Fv1%2Fevents#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%2C%20XHTTP%20
+vless://e570100b-9524-000a-8868-5a812290f852@45.145.6.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%2C%20%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8
+vless://e570100b-9524-000a-8868-5a812290f852@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=283f1c398542cccb&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%2C%20%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8
+vless://e570100b-9524-0014-8868-5a812290f852@45.145.6.247:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&pbk=sYDQC1RUZKqtJau7wrl-i5yAYy613d9e72FRGAwvYUM&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%2C%20%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD%D0%BD
+vless://e570100b-9524-0014-8868-5a812290f852@144.31.129.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s3-fi-1.rucdn777.com&pbk=GDlgvx8exl9BJ5dD2HSVqE2oUbZyZZOFX5EdnCn5j2M&sid=20ed7ee26095771b&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%2C%20%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD%D0%BD
 
 vless://b58a4390-6aba-451a-8010-61916ebe6bb3@111.88.146.74:25462?type=tcp&encryption=none&security=reality&pbk=PKfGbpZj-i7I76rfgEDgJIsXZ_TqE0B2ntNN6g3qTXI&fp=chrome&sni=www.m.vk.ru&sid=9a694cfa8ebd15&spx=%2F#🤳/🎮 | Соцсети/Игровые:
 

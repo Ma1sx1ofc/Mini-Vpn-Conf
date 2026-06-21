@@ -71,6 +71,12 @@ vless://85d509cd-e641-443a-b227-ddc765adeb2d@46.8.209.204:6443?encryption=none&t
 
 vless://afc65ed6-5905-4b30-8d7f-f6bcc864cb35@bridge3.vpn-port.com:443?encryption=none&security=reality&sni=dnl-01.geo.kaspersky.com&pbk=WMq1lnv1sx63GAFKRDKU_Rf6COEXLK8McJvMj7AJ3hw&sid=67&serviceName=telemetry&type=grpc#🇷🇺 Запасной (Обход БС, ПЕРЕГРУЗ)
 
+trojan://KHnhCpvMbsVrG8x0SFfQJ_GUMawogKcn@s41836.cdn.ngenix.net:443?security=tls&alpn=http%2F1.1&sni=s41836.cdn.ngenix.net&fp=firefox&type=ws&path=%2Fapi%2Fuser#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20%231%20%7C%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%F0%9F%94%A5
+
+vless://e570100b-9524-48bf-8868-5a812290f852@81.163.23.124:12443?encryption=none&security=reality&sni=id.pervye.ru&pbk=28Iwv9KyGQTlwhUFKlZlIAKlDm667ETHdv-YgLh0WEM&serviceName=ns&type=grpc#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20(%D0%A0%D0%B5%D0%B7%D0%B5%D1%80%D0%B2%D0%BD%D1%8B%D0%B9)%20%7C%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%F0%9F%94%A5
+
+
+
 vless://e7d9d56c-ca8b-45d1-bc8d-b3040a3558aa@brf.prizelamb.net:443?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&sni=brf.prizelamb.net&fp=edge&type=xhttp&host=brf.prizelamb.net&path=%2F#%F0%9F%8F%B3%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%B5%D0%BB%D1%8B%D1%85%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20
 
 vless://e7d9d56c-ca8b-45d1-bc8d-b3040a3558aa@top738481098.mwscdn.ru:443?encryption=none&security=tls&sni=top738481098.mwscdn.ru&fp=chrome&type=xhttp&path=%2Fxhttppath#%F0%9F%8F%B3%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%91%D0%B5%D0%BB%D1%8B%D1%85%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2%20%232

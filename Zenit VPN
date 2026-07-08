@@ -3,47 +3,7 @@
 #profile-web-page-url: https://discord.gg/7ne63z8uBW
 #announce: ВПН для тех кто в первую очередь ценит себя
 
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@nl.unlimitedteam.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.unlimitedteam.space&pbk=2L-bymDvN7te1FvuJKo_rW3DwnK2mlXXxGgYC1xnIWw&sid=dcde8a017430a146&fp=firefox#🇳🇱 Нидерланды | «10gbps/САМЫЙ БЫСТРЫЙ»
-vless://59f946e8-3b0a-41c1-bc08-e31e2363e8f4@nl15.whost-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl05.whost-solutions.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox#🇳🇱 Нидерланды | ⚡
-vless://f144a00c34f741a98332ac01a28c1d09@31.184.219.192:2443?encryption=none&type=grpc&security=reality&sni=ya.ru&pbk=hxbmHjdvaeLUhjKw_3xK6kGLuIVIpZ1Yleb6PW569G0&sid=1e91bd58&fp=chrome&serviceName=grpc#🇳🇱 Нидерланды| ⚡
-vless://98905fb079934c32a8d7ca5f9e7e608f@94.26.229.177:2443?encryption=none&type=grpc&security=reality&sni=max.ru&pbk=Wts2hYJg-7_LEQo5IpLBlXcCd_6mudrFUlXaAgIgoBI&sid=ee4aaa62&fp=chrome&serviceName=grpc#🇩🇪 Германия | ⚡
-vless://59f946e8-3b0a-41c1-bc08-e31e2363e8f4@lv01.whost-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl05.whost-solutions.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox#🇱🇻Латвия | ⚡
-vless://59f946e8-3b0a-41c1-bc08-e31e2363e8f4@lv02.whost-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl05.whost-solutions.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox#🇱🇻Латвия | ⚡
-vless://59f946e8-3b0a-41c1-bc08-e31e2363e8f4@lv03.whost-solutions.ru:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl05.whost-solutions.ru&pbk=IAdOYYmEMPFAhpVUhqfML58AVtYPdAb71R_HAPf0N0k&fp=firefox#🇱🇻Латвия | ⚡
-
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@31.76.109.104:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=CzI1Zft9ToNgciMIfMhtn_Q5RRO0Q3AyURYvrvnKL14#🇳🇱 Нидерланды #1
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@94.183.228.254:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#🇳🇱 Нидерланды #2
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:8443?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#🇳🇱 Нидерланды #3
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:40682?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#🇩🇪 Германия #1
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@de.skytunnel.pw:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bunny.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc#🇩🇪 Германия #2
-hysteria2://fee5bf09-5d07-45e8-9a47-859b06694971@ball.bluekitty.lol:443?sni=ball.bluekitty.lol&insecure=0&alpn=h3&fp=chrome#🇩🇪 Германия #3
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:11302?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#🇫🇮 Финляндия
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:23806?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#🇸🇪 Швеция
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:20878?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#🇵🇱 Польша #1
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@31.56.188.85:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#🇵🇱 Польша #2
-vless://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:56624?alpn=h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&fp=chrome&host=&mode=auto&path=/&security=tls&sni=&type=xhttp&x_padding_bytes=100-1000#🇹🇷 Турция
-trojan://LqF_dtcfGQRB6CVLYL-sC9RPXc7okbC3@45.143.200.195:7443?security=tls&sni=shve.fastload.site&fp=randomized&alpn=h2,http/1.1&type=tcp#🇨🇭 Швейцария
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@31.76.39.119:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#🇬🇧 Великобритания
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@185.252.177.125:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#🇪🇪 Эстония
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.129.249.11:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc#🇷🇺 Россия
-
-trojan://-9caK6q8pZHC_ERMRmrNG99NtuKqk0kp@scr.unlimitedteam.space:2053?security=tls&sni=scr.unlimitedteam.space#🇱🇻 Латвия | «Trojan/TLS»
-
-
-
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🤳/🎮 | Соцсети/Игровые 👇
-
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@5.129.249.11:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&fp=firefox&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc#🇱🇧 «YouTube & Discord»
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@ge.unlimitedteam.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ge.unlimitedteam.space&pbk=CH9W2oh_iX9lNVegNBYJ3Z6Ht2PMS5xFaq7gZ_S-3AY&sid=7c069b4738e25acd&fp=firefox#🇩🇪 Германия | «Игровой/Маленький пинг»
-vless://1bd4721a-a8b9-4430-86e9-f8f6b18e1f12@95.142.44.186:8449?type=grpc&security=tls&serviceName=vless-grpc-fi&mode=multi&sni=neo.fastnet-secure.com&fp=chrome#🇫🇮 Финляндия | «Игры/Звонки»
-vless://27947db6-ecf2-4625-9578-762e1f170f7a@130.49.175.44:8450?type=grpc&security=tls&serviceName=vless-grpc-es&mode=multi&sni=neo.fastnet-secure.com&fp=chrome#🇪🇸 Испания | «Обход Геоблоков»
-vless://3d0ac83a-d756-4ca2-b2ec-c8424e84ed0d@130.49.175.12:8455?type=grpc&security=tls&serviceName=vless-grpc-fi&mode=multi&sni=neo.fastnet-secure.com&fp=chrome#🇺🇸 США | «Нейросети/Стриминг»
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@ee.unlimitedteam.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ee.unlimitedteam.space&pbk=mqztI1M0wk7wmWowk9w6CPFX5jzqwCnweaZWATV1QyM&sid=6730f963365411e6&fp=chrome#🇪🇪 Эстония | «Ютуб без рекламы»
-vless://7982f37c-757c-4a29-9ad4-04db96d6b1bc@rus.unlimitedteam.space:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rus.unlimitedteam.space&pbk=p3Mg0hDnw7oY5QJ_FHg8fRFDBKcc473_JbcaDLdd7iw&sid=dc2bd4a33fdc3f8f&fp=chrome#🇷🇺 Россия | «Ютуб без рекламы»
-vless://fee5bf09-5d07-45e8-9a47-859b06694971@94.183.228.254:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vk.ru&fp=firefox&pbk=QGlJtT7TdXFaIctNpsvykWqAgTR3VCq3Z0H94-QKHDc#🇳🇱 Нидерланды | TikTok, Instagram
-
-vless://5163b7f3-c9bd-42ec-9841-350c84cbcdb5@usa.lockaway.top:443?mode=auto&path=/api/v2/stream/&security=tls&alpn=h2,http/1.1&encryption=none&extra={xmux={cMaxReuseTimes=0.0, maxConcurrency=16-32, maxConnections=0.0, hKeepAlivePeriod=0.0, hMaxRequestTimes=600-900, hMaxReusableSecs=1800-3000}, noGRPCHeader=false, xPaddingBytes=100-1000, scMaxEachPostBytes=1000000.0, scMinPostsIntervalMs=30.0, scStreamUpServerSecs=20-80}&host=usa.lockaway.top&fp=firefox&type=xhttp&sni=usa.lockaway.top#🇺🇸 США | «Только Gemini»
-
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Основных нету 👇
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки
 
@@ -72,7 +32,7 @@ vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@213.219.212.24:443?type=tcp&securit
 vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@213.219.212.30:443?type=tcp&headerType=none&security=reality&encryption=none&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&host=213.219.212.30&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 vless://a5d0bebb-3a92-075a-2df3-4c7d36b04af0@213.219.212.30:443?type=tcp&security=reality&encryption=none&sni=eh.vk.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
 
-vless://afc65ed6-5905-4b30-8d7f-f6bcc864cb35@bridge3.vpn-port.com:443?encryption=none&security=reality&sni=dnl-01.geo.kaspersky.com&pbk=WMq1lnv1sx63GAFKRDKU_Rf6COEXLK8McJvMj7AJ3hw&sid=67&serviceName=telemetry&type=grpc#🇷🇺 Запасной (Обход БС, ПЕРЕГРУЗ)
+vless://afc65ed6-5905-4b30-8d7f-f6bcc864cb35@bridge3.vpn-port.com:443?encryption=none&security=reality&sni=dnl-01.geo.kaspersky.com&pbk=WMq1lnv1sx63GAFKRDKU_Rf6COEXLK8McJvMj7AJ3hw&sid=67&serviceName=telemetry&type=grpc#🇷🇺 Запасной (Обход БС, НЕ СТАБИЛЬНЫЙ)
 
 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Чёрные списки

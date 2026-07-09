@@ -1,7 +1,7 @@
 name: Combine VPN Profile
 on:
   schedule:
-    - cron: '0 0 * * *' # Автозапуск каждый день в полночь
+    - cron: '0 */2 * * *' # Автозапуск каждый день в полночь
   workflow_dispatch: # Кнопка для ручного запуска
 
 jobs:

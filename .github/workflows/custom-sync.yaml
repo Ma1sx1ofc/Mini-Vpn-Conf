@@ -1,0 +1,61 @@
+name: Combine VPN Profile
+on:
+  schedule:
+    - cron: '0 0 * * *' # Автозапуск каждый день в полночь
+  workflow_dispatch: # Кнопка для ручного запуска
+
+jobs:
+  build-profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout my repo
+        uses: actions/checkout@v4
+
+      - name: Generate VPN Profile File
+        run: |
+          # 1. Задаем имя итогового файла
+          TARGET_FILE="Zenit VPN.txt"
+          
+          # 2. Ссылки на источники
+          URL_WHITE="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt"
+          URL_BLACK="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+
+          # 3. Записываем статичную шапку профиля до белых списков
+          cat << 'EOF' > "$TARGET_FILE"
+#profile-title: ZENIT VPN
+#profile-update-interval: 12
+#profile-web-page-url: https://discord.gg/7ne63z8uBW
+#announce: ВПН для тех кто в первую очередь ценит себя
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#Основных нету 👇
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏳️ | Белые списки
+EOF
+
+          # 4. Скачиваем БЕЛЫЕ списки с 7-й строки и дописываем в файл
+          echo "" >> "$TARGET_FILE"
+          curl -s "$URL_WHITE" | tail -n +7 >> "$TARGET_FILE"
+
+          # 5. Дописываем заголовок для ЧЕРНЫХ списков
+          echo "" >> "$TARGET_FILE"
+          cat << 'EOF' >> "$TARGET_FILE"
+
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🏴‍☠️ | Чёрные списки
+EOF
+
+          # 6. Скачиваем ЧЕРНЫЕ списки с 7-й строки и дописываем в самый конец
+          echo "" >> "$TARGET_FILE"
+          curl -s "$URL_BLACK" | tail -n +7 >> "$TARGET_FILE"
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          if git diff --exit-code; then
+            echo "Изменений в источниках нет, файл профиля актуален."
+          else
+            git add .
+            git commit -m "Автообновление единого профиля VPN"
+            git push
+          fi

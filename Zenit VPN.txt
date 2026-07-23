@@ -23,7 +23,7 @@ vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@84.201.158.106:443?encryption=none&
 vless://f6517e0e-8666-11f1-9ca5-1e6febe3e1df@5.188.141.144:2053?encryption=none&mode=gun&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&security=reality&serviceName=grpc-direct&sid=7824dfd19eab1acc&sni=hh.ru&type=grpc&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%5B%2ACIDR%5D%20VK
 vless://f6517e0e-8666-11f1-9ca5-1e6febe3e1df@5.188.141.144:2053?encryption=none&mode=gun&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&security=reality&serviceName=grpc-direct&sid=7824dfd19eab1acc&sni=hh.ru&type=grpc&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A7%F0%9F%87%BE%20%F0%9F%87%AA%F0%9F%87%AA%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B5%F0%9F%87%B1%20%5B%2ACIDR%5D%20VK
 
-vless://afc65ed6-5905-4b30-8d7f-f6bcc864cb35@bridge3.vpn-port.com:443?encryption=none&security=reality&sni=dnl-01.geo.kaspersky.com&pbk=WMq1lnv1sx63GAFKRDKU_Rf6COEXLK8McJvMj7AJ3hw&sid=67&serviceName=telemetry&type=grpc#🇷🇺 Запасной (Обход БС, НЕ СТАБИЛЬНЫЙ)
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#🇷🇺 Запасной (Обход БС, НЕ СТАБИЛЬНЫЙ)
 
 
 
